@@ -10,3 +10,7 @@
 # Sección UPDATE del CRUD
 # Lógica para modificar los datos de un registro.
 
+
+# Sección DELETE del CRUD
+# Eliminacion de un registro buscando su identificador.
+# Se remueve de la estructura de datos y se confirma la eliminación.
