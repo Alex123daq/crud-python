@@ -9,21 +9,4 @@ def crear(item):
     datos.append(item)
     return True
 
-def leer():
-    """Retorna todos los elementos almacenados."""
-    return datos
-
-def actualizar(indice, nuevo_valor):
-    """Actualiza un elemento en base a su índice."""
-    if 0 <= indice < len(datos):
-        datos[indice] = nuevo_valor
-        return True
-    return False
-
-def eliminar(indice):
-    """Elimina un elemento en base a su índice."""
-    if 0 <= indice < len(datos):
-        datos.pop(indice)
-        return True
-    return False
 
