@@ -5,3 +5,8 @@
 # Sección READ del CRUD
 # Aquí iría la parte que de los registros almacenados.
 # Lista y consulta por ID.
+
+
+# Sección UPDATE del CRUD
+# Lógica para modificar los datos de un registro.
+
