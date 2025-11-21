@@ -14,3 +14,7 @@
 # Sección DELETE del CRUD
 # Eliminacion de un registro buscando su identificador.
 # Se remueve de la estructura de datos y se confirma la eliminación.
+
+# Sección del menú principal
+# Opciones del CRUD en un menú interactivo.
+# El usuario podría elegir crear, leer, actualizar o eliminar registros.
